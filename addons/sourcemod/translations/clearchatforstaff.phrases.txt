@@ -1,0 +1,38 @@
+// Colors available for use in Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+// Cores disponíveis para usar no Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+"Phrases"
+{
+	"Clear Chat"
+	{
+		"#format"	"{1:s}"
+		"en"		"Chat Cleaned by {green}STAFF {1}{default}!"
+		"pt"		"Chat Limpo pelo {green}STAFF {1}{default}!"
+		"pt_p"		"Chat Limpo pelo {green}STAFF {1}{default}!"
+	}
+
+	"JoinMsg"
+	{
+		"en"			"{green}STAFF {default}| {green}Clear Chat {default}for All Players ➜ {green}!clearchat !cc! !clear"
+		"pt"			"{green}STAFF {default}| {green}Limpa o Chat {default}para todos os Jogadores ➜ {green}!clearchat !cc !clear"
+		"pt_p"			"{green}STAFF {default}| {green}Limpa o Chat {default}para todos os Jogadores ➜ {green}!clearchat !cc !clear"
+	}
+
+	"Clear Chat Title in Admin"
+	{
+		"en"			"Clear Chat"
+		"pt"			"Limpar Chat"
+		"pt_p"			"Limpar Chat"
+	}
+
+	"Clear Chat Buttom in Admin"
+	{
+		"en"			"Clear Chat Now"
+		"pt"			"Limpar Chat Agora"
+		"pt_p"			"Limpar Chat Agora"
+	}
+}
+
