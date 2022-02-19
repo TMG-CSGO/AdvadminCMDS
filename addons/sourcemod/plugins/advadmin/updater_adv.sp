@@ -1,5 +1,5 @@
 #include <updater>
-#define UPDATE_URL "https://raw.githubusercontent.com/alix1383/AdvadminCMDS/master/addons/sourcemod/updatefile-adv.txt"
+#define UPDATE_URL "https://raw.githubusercontent.com/alix1383/AdvadminCMDS/main/addons/sourcemod/updatefile-adv.txt"
 public Plugin myinfo = 
 {
 	name = "auto updater",
