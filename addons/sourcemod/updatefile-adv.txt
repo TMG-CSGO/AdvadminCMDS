@@ -1,0 +1,43 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.2"
+		}
+	}
+	"Files"
+	{
+		"Plugin"	"Path_SM/configs/adminmenu_custom.txt"
+
+		"Plugin"	"Path_SM/gamedata/allow-spec.games.txt"
+        "Plugin"	"Path_SM/gamedata/csgo_sv_password.games.txt"
+        "Plugin"	"Path_SM/gamedata/voiceannounce_ex.games.txt"
+
+		"Plugin"	"Path_SM/plugins/admin-allspec_fix.smx"
+		"Plugin"	"Path_SM/plugins/Admin-Util-Chat.smx"
+		"Plugin"	"Path_SM/plugins/AdminChannel.smx"
+		"Plugin"	"Path_SM/plugins/adminmanager.smx"
+		"Plugin"	"Path_SM/plugins/admin_logging.smx"
+		"Plugin"	"Path_SM/plugins/admin_talkover.smx"
+		"Plugin"	"Path_SM/plugins/advadmin.smx"
+		"Plugin"	"Path_SM/plugins/ban_disconnected.smx"
+		"Plugin"	"Path_SM/plugins/chat_logger.smx"
+		"Plugin"	"Path_SM/plugins/Clear_Chat_for_Staff.smx"
+		"Plugin"	"Path_SM/plugins/csgo_sv_password.smx"
+		"Plugin"	"Path_SM/plugins/password.smx"
+		"Plugin"	"Path_SM/plugins/srctv_demorec.smx"
+		"Plugin"	"Path_SM/plugins/stealth.smx"
+		"Plugin"	"Path_SM/plugins/updater_adv.smx"
+		"Plugin"	"Path_SM/plugins/voiceannounce_ex.smx"
+
+
+		"Plugin"	"Path_SM/translations/admin-util-chat.phrases.txt"
+		"Plugin"	"Path_SM/translations/admin_talkover.phrases.txt"
+		"Plugin"	"Path_SM/translations/advadmin.phrases.txt"
+		"Plugin"	"Path_SM/translations/clearchatforstaff.phrases.txt"
+		"Plugin"	"Path_SM/translations/plugin.adminmanager.txt"
+		"Plugin"	"Path_SM/translations/plugin.demorecord.txt"Path_SM/translations/
+	}
+}
