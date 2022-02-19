@@ -12,8 +12,8 @@
 		"Plugin"	"Path_SM/configs/adminmenu_custom.txt"
 
 		"Plugin"	"Path_SM/gamedata/allow-spec.games.txt"
-        "Plugin"	"Path_SM/gamedata/csgo_sv_password.games.txt"
-        "Plugin"	"Path_SM/gamedata/voiceannounce_ex.games.txt"
+                "Plugin"	"Path_SM/gamedata/csgo_sv_password.games.txt"
+                "Plugin"	"Path_SM/gamedata/voiceannounce_ex.games.txt"
 
 		"Plugin"	"Path_SM/plugins/advadmin/admin-allspec_fix.smx"
 		"Plugin"	"Path_SM/plugins/advadmin/Admin-Util-Chat.smx"
@@ -32,12 +32,11 @@
 		"Plugin"	"Path_SM/plugins/advadmin/updater_adv.smx"
 		"Plugin"	"Path_SM/plugins/advadmin/voiceannounce_ex.smx"
 
-
 		"Plugin"	"Path_SM/translations/admin-util-chat.phrases.txt"
 		"Plugin"	"Path_SM/translations/admin_talkover.phrases.txt"
 		"Plugin"	"Path_SM/translations/advadmin.phrases.txt"
 		"Plugin"	"Path_SM/translations/clearchatforstaff.phrases.txt"
 		"Plugin"	"Path_SM/translations/plugin.adminmanager.txt"
-		"Plugin"	"Path_SM/translations/plugin.demorecord.txt"Path_SM/translations/
+		"Plugin"	"Path_SM/translations/plugin.demorecord.txt"
 	}
 }
