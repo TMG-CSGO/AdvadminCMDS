@@ -3,69 +3,69 @@
 {	
 	"DemoMenuTitle"
 	{
- 		"en"			"SourceTV demorecord"
-                "ru"			"SourceTV - запись демок"
+		"en"			"SourceTV demorecord"
+		"ru"			"SourceTV - запись демок"
 	}	
 
 	"StartRecord"
 	{
 		"en"			"Start record"
-                "ru"			"Начать запись"
+		"ru"			"Начать запись"
 	}		
 
 	"StopRecord"
 	{
-                "en"			"Stop record"
+		"en"			"Stop record"
 		"ru"			"Остановить запись"
 	}
 
 	"CheckStatus"
 	{
-                "en"			"Check status"
+		"en"			"Check status"
 		"ru"			"Cтатус записи"
 	}
 
-        "Exit"
+	"Exit"
 	{
-                "en"			"Exit"
+		"en"			"Exit"
 		"ru"			"Выход"
 	}
 
 	"RecordTime"
 	{
-                "en"			"Record time"
+		"en"			"Record time"
 		"ru"			"Время записи"
 	}
 	 
 	"Minutes"
 	{
-                "#format"	        "{1:s}"
-                "en"			"{1} minutes"
+		"#format"					"{1:s}"
+		"en"			"{1} minutes"
 		"ru"			"{1} минут"
 	}
 
 	"DemoTimeName"
 	{
-                "#format"	        "{1:i}"
+		"#format"					"{1:i}"
 		"en"			"{1} minutes demo"
 		"ru"			"{1} минутное демо"
 	}
 
 	"RecStarter"
 	{
-                "#format"	        "{1:s}"
+		"#format"					"{1:s}"
 		"en"			"Record started by {1}"
 		"ru"			"Запись начал {1}"
 	}
 
 	"RemainTime"
 	{
-                "#format"	        "{1:d},{2:02d}"
+		"#format"					"{1:d},{2:02d}"
 		"en"			"Time remains {1}:{2} min."
 		"ru"			"Осталось времени {1}:{2} мин."
 	}
 
-        "RemainTime2"
+	"RemainTime2"
 	{
 		"en"			"Time remains - until mapchange"
 		"ru"			"Осталось времени - до смены карты"
@@ -79,28 +79,28 @@
 
 	"DemoStarted"
 	{
-		"#format"	        "{1:s},{2:s}"
+		"#format"					"{1:s},{2:s}"
 		"en"			"Demo record started {1}-{2}"
 		"ru"			"Началась запись демки {1}-{2}"
 	}
 
 	"ConDemoStopped"
 	{
-		"#format"	        "{1:s},{2:s}"
+		"#format"					"{1:s},{2:s}"
 		"en"			"CONSOLE has stop record a demo {1}-{2}"
 		"ru"			"CONSOLE остановил запись демки {1}-{2}"
 	}
 
 	"DemoStopped"
 	{
-		"#format"	        "{1:s},{2:s}"
+		"#format"					"{1:s},{2:s}"
 		"en"			"Demo record cancelled {1}-{2}"
 		"ru"			"Завершена запись демки {1}-{2}"
 	}
 
 	"DemoAlready"
 	{
-		"#format"	        "{1:s}"
+		"#format"					"{1:s}"
 		"en"			"Demo record already started by admin {1}"
 		"ru"			"Демка уже записывается админом {1}"
 	}
@@ -122,14 +122,14 @@
 		"en"			"Zero time demo"
 		"ru"			"Демка с нулевым временем"
 	}
-     
-        "CommandDisabled"
+	
+	"CommandDisabled"
 	{
 		"en"			"Sorry, this command disabled by server operator!"
 		"ru"			"Извините, эта команда отключена админом сервера!"
 	}
  
-        "InfoSend"
+	"InfoSend"
 	{
 		"en"			"Status command was send to SourceTV"
 		"ru"			"Команда status отправлена на SourceTV"
