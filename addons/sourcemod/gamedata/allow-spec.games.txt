@@ -6,8 +6,8 @@
 		{
 			"IsValidObserverTarget"
 			{
-				"windows"    "434"
-				"linux"      "435"
+				"windows"    "438"
+				"linux"      "439"
 			}
 		}
 	}
